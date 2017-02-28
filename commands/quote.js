@@ -8,7 +8,7 @@ exports.run = (client, message, args) => {
     .then((quote) => {
       var embed = new Discord.RichEmbed()
         .setColor(0x00AE86)
-        .setAuthor(quote.first().username)
+        .setAuthor(quote.first().author.username)
         .setDescription(quote.first().content)
         .setTimestamp(quote.first().createdAt);
 
