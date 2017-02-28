@@ -9,3 +9,5 @@ inefficient or downright dumb, but have faith and contribute if you will!
 
 Thanks,
 Vex
+
+P.S in the .gitignore is a bunch of un-loved experimental bots, which are all not important. Do you care? No. Cool, me neither.
