@@ -13,16 +13,4 @@ Vex
 
 P.S in the .gitignore is a bunch of un-loved experimental bots, which are all not important. Do you care? No. Cool, me neither.
 
-<h4>This is a changelog, where I log changes or changes that have been previously logged. Cool.</h4>
-
-N.B (+) = Added (=) = Fixed (-) = Removed
-
-**28/02/2017 22:07 (ish) GMT**
-
-(=) - Author name not showing using .quote. Now appears properly
-
-(+) - The changelog.
-
-(+) - The readme.md file.
-
-Cool. And nice.
+**Changelog moved to wiki page**
