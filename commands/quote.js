@@ -11,7 +11,7 @@ exports.run = (client, message, args) => {
         .setAuthor(quote.first().author.username)
         .setDescription(quote.first().content)
         .setTimestamp(quote.first().createdAt);
-
+      message.delete()
       message.channel.sendEmbed(
         embed, {
           disableEveryone: true
