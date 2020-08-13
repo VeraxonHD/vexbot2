@@ -1,3 +1,8 @@
+<h1>DEPRECATED</h1>
+This repo is no longer maintained, and never will be again.
+
+Looking for a good Discord Bot? Check out https://veraxonhd.github.io/aegis-bot/#/
+
 <h3>A friendly message from Vex, your sub-par bot creator.</h3>
 Welcome to the github repo for my Selfbot, intuitively named vexbot2. This is a cleaner and more efficient bot than the first, which,
 admittedly, was never posted on GitHub. So you don't care. I'll shut up now.
